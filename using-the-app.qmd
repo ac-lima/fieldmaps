@@ -1,0 +1,114 @@
+---
+title: "Using the App in the Field"
+---
+
+# Using the App in the Field
+
+Navigate the interface, capture data, attach photos, and use GPS tracking effectively.
+
+## App Interface Overview
+
+### Main Screen Elements
+
+1. **Map View**: Your primary workspace
+2. **Search Bar**: Find locations and features
+3. **Layers Panel**: Manage map layers
+4. **Location Button**: Center on your position
+5. **Menu**: Access settings and tools
+
+### Navigation Tools
+
+- **Pan**: Drag to move around the map
+- **Zoom**: Pinch or use zoom buttons
+- **Rotate**: Two-finger rotation gesture
+- **Tilt**: Two-finger vertical drag
+
+## Data Collection
+
+### Adding New Features
+
+1. Tap the "+" button
+2. Select feature type
+3. Position on the map
+4. Fill out the form
+5. Save the feature
+
+### Editing Existing Features
+
+1. Tap on a feature
+2. Select "Edit"
+3. Modify geometry or attributes
+4. Save changes
+
+## Photo Attachments
+
+### Taking Photos
+
+1. Open a feature's form
+2. Tap the camera icon
+3. Take or select photos
+4. Add captions if needed
+
+### Photo Best Practices
+
+- Use good lighting
+- Include reference objects for scale
+- Take multiple angles when needed
+- Keep file sizes reasonable
+
+## GPS and Location
+
+### Location Accuracy
+
+- Wait for GPS lock before collecting data
+- Check accuracy indicators
+- Use external GPS for higher precision
+- Consider environmental factors
+
+### Tracking
+
+1. Enable location tracking
+2. Set tracking intervals
+3. Monitor battery usage
+4. Review tracks regularly
+
+## Working Offline
+
+### Downloading Maps
+
+1. Open the map
+2. Tap "Download"
+3. Select area and detail level
+4. Wait for download completion
+
+### Offline Data Collection
+
+- All features work offline
+- Photos are stored locally
+- Forms function normally
+- Sync when connection returns
+
+## Quality Control
+
+### Data Validation
+
+- Review forms before saving
+- Check coordinate accuracy
+- Verify photo attachments
+- Use validation rules
+
+### Error Handling
+
+- Address form validation errors
+- Check for duplicate features
+- Resolve sync conflicts
+- Maintain data integrity
+
+## Next Steps
+
+Learn about:
+
+- [Syncing your collected data](syncing-data.qmd)
+- [Best practices for field work](tips-and-best-practices.qmd)
+- [Advanced techniques](tips-and-best-practices.qmd)
+

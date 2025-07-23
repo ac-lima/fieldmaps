@@ -1,0 +1,87 @@
+---
+title: "ArcGIS Field Maps Tutorial - Complete Beginner's Guide"
+---
+
+::: {.hero-section}
+# Master ArcGIS Field Maps
+
+A comprehensive, beginner-friendly tutorial for field data collection using ArcGIS Field Maps. Learn everything from installation to advanced data management techniques.
+
+[Start Learning](getting-started.qmd){.btn .btn-primary .btn-lg}
+:::
+
+::: {.map-background}
+![Field Maps Interface](https://via.placeholder.com/800x400/e8f4f8/2c5aa0?text=ArcGIS+Field+Maps+Interface)
+:::
+
+## Tutorial Sections
+
+::: {.section-header}
+**Everything you need to know**
+
+From basic installation to advanced field workflows, this tutorial covers all aspects of ArcGIS Field Maps.
+:::
+
+::: {.tutorial-grid}
+::: {.tutorial-card}
+### Getting Started
+
+Learn how to install the app and set up your ArcGIS account for field data collection.
+
+[Learn More](getting-started.qmd)
+:::
+
+::: {.tutorial-card}
+### Preparing a Map
+
+Configure web maps in ArcGIS Online, add editable layers, and set up offline areas.
+
+[Learn More](preparing-a-map.qmd)
+:::
+
+::: {.tutorial-card}
+### Using the App in the Field
+
+Navigate the interface, capture data, attach photos, and use GPS tracking effectively.
+
+[Learn More](using-the-app.qmd)
+:::
+
+::: {.tutorial-card}
+### Syncing and Managing Data
+
+Sync collected data back to ArcGIS Online and access it for analysis and reporting.
+
+[Learn More](syncing-data.qmd)
+:::
+:::
+
+## Best Practices
+
+::: {.section-header}
+**Tips for Success**
+:::
+
+::: {.best-practices-grid}
+::: {.practice-card}
+### Offline Workflows
+
+Learn how to work efficiently without internet connectivity
+
+:::
+
+::: {.practice-card}
+### Battery Management
+
+Optimize your device settings for extended field work
+
+:::
+
+::: {.practice-card}
+### Form Customization
+
+Design intuitive forms for faster data collection
+
+:::
+:::
+

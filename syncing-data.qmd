@@ -1,0 +1,128 @@
+---
+title: "Syncing and Managing Data"
+---
+
+# Syncing and Managing Data
+
+Sync collected data back to ArcGIS Online and access it for analysis and reporting.
+
+## Understanding Sync
+
+### What Gets Synced
+
+- New features and edits
+- Photo attachments
+- Attribute updates
+- Deleted features
+- Location tracks
+
+### Sync Requirements
+
+- Internet connection
+- Valid ArcGIS credentials
+- Sufficient storage space
+- Compatible data formats
+
+## Manual Sync
+
+### Initiating Sync
+
+1. Open the map
+2. Tap the sync button
+3. Wait for completion
+4. Check for errors
+
+### Sync Status
+
+- **Green**: Successful sync
+- **Yellow**: Partial sync with warnings
+- **Red**: Sync failed
+- **Blue**: Sync in progress
+
+## Automatic Sync
+
+### Enabling Auto-Sync
+
+1. Access app settings
+2. Enable automatic sync
+3. Set sync intervals
+4. Configure sync conditions
+
+### Sync Triggers
+
+- Time-based intervals
+- WiFi connection available
+- Battery level thresholds
+- Data volume limits
+
+## Conflict Resolution
+
+### Types of Conflicts
+
+1. **Attribute conflicts**: Same feature edited by multiple users
+2. **Geometry conflicts**: Feature location changed
+3. **Delete conflicts**: Feature deleted by another user
+
+### Resolution Strategies
+
+- Review conflict details
+- Choose appropriate version
+- Merge changes when possible
+- Document resolution decisions
+
+## Data Management
+
+### Viewing Synced Data
+
+1. Access ArcGIS Online
+2. Open your web map
+3. View feature layers
+4. Check attribute tables
+
+### Data Analysis
+
+- Use ArcGIS Online analysis tools
+- Export to other formats
+- Create reports and dashboards
+- Share with stakeholders
+
+## Troubleshooting
+
+### Common Sync Issues
+
+1. **Network connectivity**: Check internet connection
+2. **Storage space**: Free up device storage
+3. **Permissions**: Verify layer edit permissions
+4. **Data size**: Large attachments may fail
+
+### Error Messages
+
+- **"Sync failed"**: Check network and retry
+- **"Insufficient permissions"**: Contact administrator
+- **"Storage full"**: Clear space and retry
+- **"Invalid data"**: Check form validation
+
+## Best Practices
+
+### Sync Frequency
+
+- Sync regularly to avoid data loss
+- Use WiFi for large uploads
+- Monitor data usage on cellular
+- Backup important data
+
+### Data Quality
+
+- Review data before syncing
+- Validate coordinates and attributes
+- Check photo quality and relevance
+- Remove unnecessary features
+
+## Next Steps
+
+Explore advanced topics:
+
+- [Tips and best practices](tips-and-best-practices.qmd)
+- [Troubleshooting common issues](tips-and-best-practices.qmd)
+- [Advanced workflows](tips-and-best-practices.qmd)
+

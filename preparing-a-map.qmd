@@ -1,0 +1,86 @@
+---
+title: "Preparing a Map"
+---
+
+# Preparing a Map for Field Collection
+
+Configure web maps in ArcGIS Online, add editable layers, and set up offline areas.
+
+## Creating a Web Map
+
+### Step 1: Access ArcGIS Online
+
+1. Sign in to [ArcGIS Online](https://www.arcgis.com)
+2. Navigate to the Map Viewer
+3. Click "Create New Map"
+
+### Step 2: Add Base Layers
+
+1. Choose an appropriate basemap
+2. Consider offline availability
+3. Select imagery or topographic maps as needed
+
+## Adding Editable Layers
+
+### Feature Layers
+
+1. Click "Add Layer" → "Create Feature Layer"
+2. Define your feature types (points, lines, polygons)
+3. Configure attribute fields
+4. Set up domains and constraints
+
+### Form Configuration
+
+1. Access the layer's settings
+2. Configure the data collection form
+3. Set field types and validation rules
+4. Add conditional logic if needed
+
+## Offline Settings
+
+### Enabling Offline Use
+
+1. Open map settings
+2. Enable "Offline" capability
+3. Set sync options
+4. Configure attachment settings
+
+### Download Areas
+
+1. Define offline areas
+2. Set appropriate scale levels
+3. Consider file size limitations
+4. Test download performance
+
+## Sharing Your Map
+
+### Setting Permissions
+
+1. Save your web map
+2. Configure sharing settings
+3. Share with your organization or groups
+4. Set appropriate access levels
+
+### Field Maps Configuration
+
+1. Enable Field Maps in map settings
+2. Configure location tracking
+3. Set up data collection workflows
+4. Test with the mobile app
+
+## Best Practices
+
+- Keep forms simple and intuitive
+- Use appropriate field types
+- Test offline functionality
+- Optimize for mobile devices
+- Consider data storage limits
+
+## Next Steps
+
+With your map prepared, you're ready to:
+
+- [Use the app in the field](using-the-app.qmd)
+- [Learn about data syncing](syncing-data.qmd)
+- [Explore best practices](tips-and-best-practices.qmd)
+

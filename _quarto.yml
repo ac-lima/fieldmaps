@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "ArcGIS Field Maps Tutorial"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: getting-started.qmd
+        text: Getting Started
+      - href: preparing-a-map.qmd
+        text: Preparing a Map
+      - href: using-the-app.qmd
+        text: Using the App
+      - href: syncing-data.qmd
+        text: Syncing Data
+      - href: tips-and-best-practices.qmd
+        text: Tips & Best Practices
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

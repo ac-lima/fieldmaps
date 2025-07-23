@@ -1,0 +1,55 @@
+---
+title: "Getting Started"
+---
+
+# Getting Started with ArcGIS Field Maps
+
+Learn how to install the app and set up your ArcGIS account for field data collection.
+
+## Installation
+
+### Mobile App Installation
+
+1. **iOS Devices**: Download from the App Store
+2. **Android Devices**: Download from Google Play Store
+3. **Windows Devices**: Download from Microsoft Store
+
+### System Requirements
+
+- iOS 13.0 or later
+- Android 7.0 (API level 24) or later
+- Windows 10 version 17763.0 or later
+
+## Account Setup
+
+### Creating an ArcGIS Account
+
+1. Visit [ArcGIS Online](https://www.arcgis.com)
+2. Click "Sign Up for a Free Public Account"
+3. Fill in your details and verify your email
+4. Complete your profile setup
+
+### Organizational Accounts
+
+If you're part of an organization:
+
+1. Contact your GIS administrator
+2. Request access to Field Maps
+3. Obtain your organization's URL
+4. Use your organizational credentials to sign in
+
+## First Login
+
+1. Open the Field Maps app
+2. Enter your ArcGIS credentials
+3. Allow location permissions
+4. Complete the initial setup wizard
+
+## Next Steps
+
+Once you're logged in, you're ready to:
+
+- [Prepare your first map](preparing-a-map.qmd)
+- [Learn the app interface](using-the-app.qmd)
+- [Understand data syncing](syncing-data.qmd)
+
