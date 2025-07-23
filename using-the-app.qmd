@@ -47,12 +47,17 @@ Navigate the interface, capture data, attach photos, and use GPS tracking effect
 3. Take or select photos
 4. Add captions if needed
 
+### Photo Requeriments
+
+1. Take photo of willow leave
+2. Take photo of willow flowwer/catkin
+3. Take photo of willow area (to verify density)
+
 ### Photo Best Practices
 
-- Use good lighting
-- Include reference objects for scale
-- Take multiple angles when needed
-- Keep file sizes reasonable
+1. Good lightining
+2. Do not upload blurred photos, you can hold the plant if needed
+3. Keep file sizes reasonable
 
 ## GPS and Location
 

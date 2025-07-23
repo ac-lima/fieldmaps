@@ -10,10 +10,6 @@ A comprehensive, beginner-friendly tutorial for field data collection using ArcG
 [Start Learning](getting-started.qmd){.btn .btn-primary .btn-lg}
 :::
 
-::: {.map-background}
-![Field Maps Interface](https://via.placeholder.com/800x400/e8f4f8/2c5aa0?text=ArcGIS+Field+Maps+Interface)
-:::
-
 ## Tutorial Sections
 
 ::: {.section-header}
@@ -74,13 +70,6 @@ Learn how to work efficiently without internet connectivity
 ### Battery Management
 
 Optimize your device settings for extended field work
-
-:::
-
-::: {.practice-card}
-### Form Customization
-
-Design intuitive forms for faster data collection
 
 :::
 :::

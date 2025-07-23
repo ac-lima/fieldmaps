@@ -20,34 +20,17 @@ Learn how to install the app and set up your ArcGIS account for field data colle
 
 ## Account Setup
 
-### Creating an ArcGIS Account
-
-1. Visit [ArcGIS Online](https://www.arcgis.com)
-2. Click "Sign Up for a Free Public Account"
-3. Fill in your details and verify your email
-4. Complete your profile setup
-
-### Organizational Accounts
-
-If you're part of an organization:
-
-1. Contact your GIS administrator
-2. Request access to Field Maps
-3. Obtain your organization's URL
-4. Use your organizational credentials to sign in
-
 ## First Login
 
 1. Open the Field Maps app
-2. Enter your ArcGIS credentials
-3. Allow location permissions
-4. Complete the initial setup wizard
+2. Sign In with ArcGIS Online
+3. Your ArcGIS organization's URL: **uib**.maps.arcgis.com
+4. Sign in with your university account (email + password)
 
 ## Next Steps
 
 Once you're logged in, you're ready to:
 
-- [Prepare your first map](preparing-a-map.qmd)
-- [Learn the app interface](using-the-app.qmd)
-- [Understand data syncing](syncing-data.qmd)
+1. On "Maps" search for "willow_mapping_finse_field2"
+2. There is a file called "willow_mapping_finse", however it is from the first fieldwork. **DO NOT** use it.
 
