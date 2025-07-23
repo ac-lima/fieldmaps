@@ -2,8 +2,6 @@
 title: "Getting Started"
 ---
 
-# Getting Started with ArcGIS Field Maps
-
 Learn how to install the app and set up your ArcGIS account for field data collection.
 
 ## Installation

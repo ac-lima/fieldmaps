@@ -2,8 +2,6 @@
 title: "Preparing a Map"
 ---
 
-# Preparing a Map for Field Collection
-
 Configure web maps in ArcGIS Online, add editable layers, and set up offline areas.
 
 ## Creating a Web Map

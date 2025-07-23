@@ -2,8 +2,6 @@
 title: "Using the App in the Field"
 ---
 
-# Using the App in the Field
-
 Navigate the interface, capture data, attach photos, and use GPS tracking effectively.
 
 ## App Interface Overview

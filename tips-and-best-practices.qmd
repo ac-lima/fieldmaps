@@ -2,8 +2,6 @@
 title: "Tips & Best Practices"
 ---
 
-# Tips & Best Practices
-
 ## Offline Workflows
 
 ### Planning for Offline Work

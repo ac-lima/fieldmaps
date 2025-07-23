@@ -2,8 +2,6 @@
 title: "Syncing and Managing Data"
 ---
 
-# Syncing and Managing Data
-
 Sync collected data back to ArcGIS Online and access it for analysis and reporting.
 
 ## Understanding Sync

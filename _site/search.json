@@ -1,0 +1,289 @@
+[
+  {
+    "objectID": "using-the-app.html",
+    "href": "using-the-app.html",
+    "title": "Using the App in the Field",
+    "section": "",
+    "text": "Navigate the interface, capture data, attach photos, and use GPS tracking effectively."
+  },
+  {
+    "objectID": "using-the-app.html#app-interface-overview",
+    "href": "using-the-app.html#app-interface-overview",
+    "title": "Using the App in the Field",
+    "section": "App Interface Overview",
+    "text": "App Interface Overview\n\nMain Screen Elements\n\nMap View: Your primary workspace\nSearch Bar: Find locations and features\nLayers Panel: Manage map layers\nLocation Button: Center on your position\nMenu: Access settings and tools\n\n\n\nNavigation Tools\n\nPan: Drag to move around the map\nZoom: Pinch or use zoom buttons\nRotate: Two-finger rotation gesture\nTilt: Two-finger vertical drag"
+  },
+  {
+    "objectID": "using-the-app.html#data-collection",
+    "href": "using-the-app.html#data-collection",
+    "title": "Using the App in the Field",
+    "section": "Data Collection",
+    "text": "Data Collection\n\nAdding New Features\n\nTap the “+” button\nSelect feature type\nPosition on the map\nFill out the form\nSave the feature\n\n\n\nEditing Existing Features\n\nTap on a feature\nSelect “Edit”\nModify geometry or attributes\nSave changes"
+  },
+  {
+    "objectID": "using-the-app.html#photo-attachments",
+    "href": "using-the-app.html#photo-attachments",
+    "title": "Using the App in the Field",
+    "section": "Photo Attachments",
+    "text": "Photo Attachments\n\nTaking Photos\n\nOpen a feature’s form\nTap the camera icon\nTake or select photos\nAdd captions if needed\n\n\n\nPhoto Best Practices\n\nUse good lighting\nInclude reference objects for scale\nTake multiple angles when needed\nKeep file sizes reasonable"
+  },
+  {
+    "objectID": "using-the-app.html#gps-and-location",
+    "href": "using-the-app.html#gps-and-location",
+    "title": "Using the App in the Field",
+    "section": "GPS and Location",
+    "text": "GPS and Location\n\nLocation Accuracy\n\nWait for GPS lock before collecting data\nCheck accuracy indicators\nUse external GPS for higher precision\nConsider environmental factors\n\n\n\nTracking\n\nEnable location tracking\nSet tracking intervals\nMonitor battery usage\nReview tracks regularly"
+  },
+  {
+    "objectID": "using-the-app.html#working-offline",
+    "href": "using-the-app.html#working-offline",
+    "title": "Using the App in the Field",
+    "section": "Working Offline",
+    "text": "Working Offline\n\nDownloading Maps\n\nOpen the map\nTap “Download”\nSelect area and detail level\nWait for download completion\n\n\n\nOffline Data Collection\n\nAll features work offline\nPhotos are stored locally\nForms function normally\nSync when connection returns"
+  },
+  {
+    "objectID": "using-the-app.html#quality-control",
+    "href": "using-the-app.html#quality-control",
+    "title": "Using the App in the Field",
+    "section": "Quality Control",
+    "text": "Quality Control\n\nData Validation\n\nReview forms before saving\nCheck coordinate accuracy\nVerify photo attachments\nUse validation rules\n\n\n\nError Handling\n\nAddress form validation errors\nCheck for duplicate features\nResolve sync conflicts\nMaintain data integrity"
+  },
+  {
+    "objectID": "using-the-app.html#next-steps",
+    "href": "using-the-app.html#next-steps",
+    "title": "Using the App in the Field",
+    "section": "Next Steps",
+    "text": "Next Steps\nLearn about:\n\nSyncing your collected data\nBest practices for field work\nAdvanced techniques"
+  },
+  {
+    "objectID": "syncing-data.html",
+    "href": "syncing-data.html",
+    "title": "Syncing and Managing Data",
+    "section": "",
+    "text": "Sync collected data back to ArcGIS Online and access it for analysis and reporting."
+  },
+  {
+    "objectID": "syncing-data.html#understanding-sync",
+    "href": "syncing-data.html#understanding-sync",
+    "title": "Syncing and Managing Data",
+    "section": "Understanding Sync",
+    "text": "Understanding Sync\n\nWhat Gets Synced\n\nNew features and edits\nPhoto attachments\nAttribute updates\nDeleted features\nLocation tracks\n\n\n\nSync Requirements\n\nInternet connection\nValid ArcGIS credentials\nSufficient storage space\nCompatible data formats"
+  },
+  {
+    "objectID": "syncing-data.html#manual-sync",
+    "href": "syncing-data.html#manual-sync",
+    "title": "Syncing and Managing Data",
+    "section": "Manual Sync",
+    "text": "Manual Sync\n\nInitiating Sync\n\nOpen the map\nTap the sync button\nWait for completion\nCheck for errors\n\n\n\nSync Status\n\nGreen: Successful sync\nYellow: Partial sync with warnings\nRed: Sync failed\nBlue: Sync in progress"
+  },
+  {
+    "objectID": "syncing-data.html#automatic-sync",
+    "href": "syncing-data.html#automatic-sync",
+    "title": "Syncing and Managing Data",
+    "section": "Automatic Sync",
+    "text": "Automatic Sync\n\nEnabling Auto-Sync\n\nAccess app settings\nEnable automatic sync\nSet sync intervals\nConfigure sync conditions\n\n\n\nSync Triggers\n\nTime-based intervals\nWiFi connection available\nBattery level thresholds\nData volume limits"
+  },
+  {
+    "objectID": "syncing-data.html#conflict-resolution",
+    "href": "syncing-data.html#conflict-resolution",
+    "title": "Syncing and Managing Data",
+    "section": "Conflict Resolution",
+    "text": "Conflict Resolution\n\nTypes of Conflicts\n\nAttribute conflicts: Same feature edited by multiple users\nGeometry conflicts: Feature location changed\nDelete conflicts: Feature deleted by another user\n\n\n\nResolution Strategies\n\nReview conflict details\nChoose appropriate version\nMerge changes when possible\nDocument resolution decisions"
+  },
+  {
+    "objectID": "syncing-data.html#data-management",
+    "href": "syncing-data.html#data-management",
+    "title": "Syncing and Managing Data",
+    "section": "Data Management",
+    "text": "Data Management\n\nViewing Synced Data\n\nAccess ArcGIS Online\nOpen your web map\nView feature layers\nCheck attribute tables\n\n\n\nData Analysis\n\nUse ArcGIS Online analysis tools\nExport to other formats\nCreate reports and dashboards\nShare with stakeholders"
+  },
+  {
+    "objectID": "syncing-data.html#troubleshooting",
+    "href": "syncing-data.html#troubleshooting",
+    "title": "Syncing and Managing Data",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\n\nCommon Sync Issues\n\nNetwork connectivity: Check internet connection\nStorage space: Free up device storage\nPermissions: Verify layer edit permissions\nData size: Large attachments may fail\n\n\n\nError Messages\n\n“Sync failed”: Check network and retry\n“Insufficient permissions”: Contact administrator\n“Storage full”: Clear space and retry\n“Invalid data”: Check form validation"
+  },
+  {
+    "objectID": "syncing-data.html#best-practices",
+    "href": "syncing-data.html#best-practices",
+    "title": "Syncing and Managing Data",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nSync Frequency\n\nSync regularly to avoid data loss\nUse WiFi for large uploads\nMonitor data usage on cellular\nBackup important data\n\n\n\nData Quality\n\nReview data before syncing\nValidate coordinates and attributes\nCheck photo quality and relevance\nRemove unnecessary features"
+  },
+  {
+    "objectID": "syncing-data.html#next-steps",
+    "href": "syncing-data.html#next-steps",
+    "title": "Syncing and Managing Data",
+    "section": "Next Steps",
+    "text": "Next Steps\nExplore advanced topics:\n\nTips and best practices\nTroubleshooting common issues\nAdvanced workflows"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ArcGIS Field Maps Tutorial - Complete Beginner’s Guide",
+    "section": "",
+    "text": "A comprehensive, beginner-friendly tutorial for field data collection using ArcGIS Field Maps. Learn everything from installation to advanced data management techniques.\nStart Learning"
+  },
+  {
+    "objectID": "index.html#tutorial-sections",
+    "href": "index.html#tutorial-sections",
+    "title": "ArcGIS Field Maps Tutorial - Complete Beginner’s Guide",
+    "section": "Tutorial Sections",
+    "text": "Tutorial Sections\n\nEverything you need to know\nFrom basic installation to advanced field workflows, this tutorial covers all aspects of ArcGIS Field Maps.\n\n\n\nGetting Started\nLearn how to install the app and set up your ArcGIS account for field data collection.\nLearn More\n\n\nPreparing a Map\nConfigure web maps in ArcGIS Online, add editable layers, and set up offline areas.\nLearn More\n\n\nUsing the App in the Field\nNavigate the interface, capture data, attach photos, and use GPS tracking effectively.\nLearn More\n\n\nSyncing and Managing Data\nSync collected data back to ArcGIS Online and access it for analysis and reporting.\nLearn More"
+  },
+  {
+    "objectID": "index.html#best-practices",
+    "href": "index.html#best-practices",
+    "title": "ArcGIS Field Maps Tutorial - Complete Beginner’s Guide",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nTips for Success\n\n\n\nOffline Workflows\nLearn how to work efficiently without internet connectivity\n\n\nBattery Management\nOptimize your device settings for extended field work\n\n\nForm Customization\nDesign intuitive forms for faster data collection"
+  },
+  {
+    "objectID": "getting-started.html",
+    "href": "getting-started.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Learn how to install the app and set up your ArcGIS account for field data collection."
+  },
+  {
+    "objectID": "getting-started.html#installation",
+    "href": "getting-started.html#installation",
+    "title": "Getting Started",
+    "section": "Installation",
+    "text": "Installation\n\nMobile App Installation\n\niOS Devices: Download from the App Store\nAndroid Devices: Download from Google Play Store\nWindows Devices: Download from Microsoft Store\n\n\n\nSystem Requirements\n\niOS 13.0 or later\nAndroid 7.0 (API level 24) or later\nWindows 10 version 17763.0 or later"
+  },
+  {
+    "objectID": "getting-started.html#account-setup",
+    "href": "getting-started.html#account-setup",
+    "title": "Getting Started",
+    "section": "Account Setup",
+    "text": "Account Setup\n\nCreating an ArcGIS Account\n\nVisit ArcGIS Online\nClick “Sign Up for a Free Public Account”\nFill in your details and verify your email\nComplete your profile setup\n\n\n\nOrganizational Accounts\nIf you’re part of an organization:\n\nContact your GIS administrator\nRequest access to Field Maps\nObtain your organization’s URL\nUse your organizational credentials to sign in"
+  },
+  {
+    "objectID": "getting-started.html#first-login",
+    "href": "getting-started.html#first-login",
+    "title": "Getting Started",
+    "section": "First Login",
+    "text": "First Login\n\nOpen the Field Maps app\nEnter your ArcGIS credentials\nAllow location permissions\nComplete the initial setup wizard"
+  },
+  {
+    "objectID": "getting-started.html#next-steps",
+    "href": "getting-started.html#next-steps",
+    "title": "Getting Started",
+    "section": "Next Steps",
+    "text": "Next Steps\nOnce you’re logged in, you’re ready to:\n\nPrepare your first map\nLearn the app interface\nUnderstand data syncing"
+  },
+  {
+    "objectID": "preparing-a-map.html",
+    "href": "preparing-a-map.html",
+    "title": "Preparing a Map",
+    "section": "",
+    "text": "Configure web maps in ArcGIS Online, add editable layers, and set up offline areas."
+  },
+  {
+    "objectID": "preparing-a-map.html#creating-a-web-map",
+    "href": "preparing-a-map.html#creating-a-web-map",
+    "title": "Preparing a Map",
+    "section": "Creating a Web Map",
+    "text": "Creating a Web Map\n\nStep 1: Access ArcGIS Online\n\nSign in to ArcGIS Online\nNavigate to the Map Viewer\nClick “Create New Map”\n\n\n\nStep 2: Add Base Layers\n\nChoose an appropriate basemap\nConsider offline availability\nSelect imagery or topographic maps as needed"
+  },
+  {
+    "objectID": "preparing-a-map.html#adding-editable-layers",
+    "href": "preparing-a-map.html#adding-editable-layers",
+    "title": "Preparing a Map",
+    "section": "Adding Editable Layers",
+    "text": "Adding Editable Layers\n\nFeature Layers\n\nClick “Add Layer” → “Create Feature Layer”\nDefine your feature types (points, lines, polygons)\nConfigure attribute fields\nSet up domains and constraints\n\n\n\nForm Configuration\n\nAccess the layer’s settings\nConfigure the data collection form\nSet field types and validation rules\nAdd conditional logic if needed"
+  },
+  {
+    "objectID": "preparing-a-map.html#offline-settings",
+    "href": "preparing-a-map.html#offline-settings",
+    "title": "Preparing a Map",
+    "section": "Offline Settings",
+    "text": "Offline Settings\n\nEnabling Offline Use\n\nOpen map settings\nEnable “Offline” capability\nSet sync options\nConfigure attachment settings\n\n\n\nDownload Areas\n\nDefine offline areas\nSet appropriate scale levels\nConsider file size limitations\nTest download performance"
+  },
+  {
+    "objectID": "preparing-a-map.html#sharing-your-map",
+    "href": "preparing-a-map.html#sharing-your-map",
+    "title": "Preparing a Map",
+    "section": "Sharing Your Map",
+    "text": "Sharing Your Map\n\nSetting Permissions\n\nSave your web map\nConfigure sharing settings\nShare with your organization or groups\nSet appropriate access levels\n\n\n\nField Maps Configuration\n\nEnable Field Maps in map settings\nConfigure location tracking\nSet up data collection workflows\nTest with the mobile app"
+  },
+  {
+    "objectID": "preparing-a-map.html#best-practices",
+    "href": "preparing-a-map.html#best-practices",
+    "title": "Preparing a Map",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nKeep forms simple and intuitive\nUse appropriate field types\nTest offline functionality\nOptimize for mobile devices\nConsider data storage limits"
+  },
+  {
+    "objectID": "preparing-a-map.html#next-steps",
+    "href": "preparing-a-map.html#next-steps",
+    "title": "Preparing a Map",
+    "section": "Next Steps",
+    "text": "Next Steps\nWith your map prepared, you’re ready to:\n\nUse the app in the field\nLearn about data syncing\nExplore best practices"
+  },
+  {
+    "objectID": "tips-and-best-practices.html",
+    "href": "tips-and-best-practices.html",
+    "title": "Tips & Best Practices",
+    "section": "",
+    "text": "Download maps before heading to the field\nTest offline functionality in the office\nPrepare backup power sources\nPlan data collection routes efficiently\n\n\n\n\n\nUse appropriate map scales\nLimit offline area size\nChoose efficient basemaps\nMonitor storage usage\n\n\n\n\n\nSync regularly when connection is available\nKeep local storage organized\nBackup critical data\nMonitor sync status"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#offline-workflows",
+    "href": "tips-and-best-practices.html#offline-workflows",
+    "title": "Tips & Best Practices",
+    "section": "",
+    "text": "Download maps before heading to the field\nTest offline functionality in the office\nPrepare backup power sources\nPlan data collection routes efficiently\n\n\n\n\n\nUse appropriate map scales\nLimit offline area size\nChoose efficient basemaps\nMonitor storage usage\n\n\n\n\n\nSync regularly when connection is available\nKeep local storage organized\nBackup critical data\nMonitor sync status"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#battery-management",
+    "href": "tips-and-best-practices.html#battery-management",
+    "title": "Tips & Best Practices",
+    "section": "Battery Management",
+    "text": "Battery Management\n\nDevice Settings\n\nReduce screen brightness\nDisable unnecessary apps\nUse airplane mode in poor signal areas\nEnable power saving modes\n\n\n\nExternal Power\n\nCarry portable battery packs\nUse vehicle charging when available\nConsider solar charging options\nPlan charging schedules\n\n\n\nApp Optimization\n\nClose unused apps\nDisable location services for other apps\nUse offline maps to reduce data usage\nMinimize photo resolution when appropriate"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#form-customization",
+    "href": "tips-and-best-practices.html#form-customization",
+    "title": "Tips & Best Practices",
+    "section": "Form Customization",
+    "text": "Form Customization\n\nDesign Principles\n\nKeep forms simple and intuitive\nUse clear field labels\nGroup related fields together\nMinimize required fields\n\n\n\nField Types\n\nText: For descriptions and notes\nNumbers: For measurements and counts\nDates: For temporal data\nChoice lists: For standardized values\nPhotos: For visual documentation\n\n\n\nValidation Rules\n\nSet appropriate data ranges\nUse required field validation\nImplement conditional logic\nProvide helpful error messages\n\n\n\nUser Experience\n\nTest forms with field staff\nGather feedback and iterate\nProvide training materials\nDocument form workflows"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#data-quality",
+    "href": "tips-and-best-practices.html#data-quality",
+    "title": "Tips & Best Practices",
+    "section": "Data Quality",
+    "text": "Data Quality\n\nCollection Standards\n\nEstablish clear data collection protocols\nTrain field staff on procedures\nUse standardized terminology\nImplement quality control checks\n\n\n\nAccuracy Considerations\n\nUnderstand GPS limitations\nUse appropriate collection methods\nConsider environmental factors\nValidate critical measurements\n\n\n\nDocumentation\n\nMaintain detailed metadata\nDocument collection methods\nRecord data sources\nKeep version control"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#security-and-privacy",
+    "href": "tips-and-best-practices.html#security-and-privacy",
+    "title": "Tips & Best Practices",
+    "section": "Security and Privacy",
+    "text": "Security and Privacy\n\nData Protection\n\nUse strong passwords\nEnable device encryption\nSecure physical devices\nFollow organizational policies\n\n\n\nAccess Control\n\nLimit data access appropriately\nUse role-based permissions\nMonitor data usage\nRegular security reviews\n\n\n\nCompliance\n\nUnderstand regulatory requirements\nImplement data retention policies\nEnsure privacy protection\nDocument compliance measures"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#troubleshooting",
+    "href": "tips-and-best-practices.html#troubleshooting",
+    "title": "Tips & Best Practices",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\n\nCommon Issues\n\nGPS accuracy problems\n\nWait for better satellite lock\nMove to open areas\nCheck device settings\nConsider external GPS\n\nSync failures\n\nCheck internet connection\nVerify credentials\nClear app cache\nContact support\n\nApp crashes\n\nRestart the app\nUpdate to latest version\nClear device storage\nReport bugs\n\n\n\n\nPerformance Optimization\n\nRegular app updates\nDevice maintenance\nStorage management\nNetwork optimization"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#advanced-techniques",
+    "href": "tips-and-best-practices.html#advanced-techniques",
+    "title": "Tips & Best Practices",
+    "section": "Advanced Techniques",
+    "text": "Advanced Techniques\n\nIntegration with Other Tools\n\nExport data to GIS software\nConnect with databases\nUse APIs for automation\nIntegrate with workflows\n\n\n\nAutomation\n\nSet up automated sync schedules\nUse webhooks for notifications\nImplement data validation scripts\nCreate automated reports\n\n\n\nCustomization\n\nDevelop custom forms\nCreate specialized workflows\nBuild integration tools\nExtend functionality"
+  },
+  {
+    "objectID": "tips-and-best-practices.html#getting-help",
+    "href": "tips-and-best-practices.html#getting-help",
+    "title": "Tips & Best Practices",
+    "section": "Getting Help",
+    "text": "Getting Help\n\nResources\n\nArcGIS Field Maps Documentation\nEsri Community Forums\nTraining Courses\nTechnical Support\n\n\n\nCommunity\n\nJoin user groups\nAttend conferences\nParticipate in forums\nShare experiences\n\n\n\nContinuous Learning\n\nStay updated with new features\nPractice with sample data\nExperiment with workflows\nSeek feedback from users"
+  }
+]
