@@ -129,9 +129,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#using-the-app-in-the-field" id="toc-using-the-app-in-the-field" class="nav-link active" data-scroll-target="#using-the-app-in-the-field">Using the App in the Field</a>
-  <ul class="collapse">
-  <li><a href="#app-interface-overview" id="toc-app-interface-overview" class="nav-link" data-scroll-target="#app-interface-overview">App Interface Overview</a>
+  <li><a href="#app-interface-overview" id="toc-app-interface-overview" class="nav-link active" data-scroll-target="#app-interface-overview">App Interface Overview</a>
   <ul class="collapse">
   <li><a href="#main-screen-elements" id="toc-main-screen-elements" class="nav-link" data-scroll-target="#main-screen-elements">Main Screen Elements</a></li>
   <li><a href="#navigation-tools" id="toc-navigation-tools" class="nav-link" data-scroll-target="#navigation-tools">Navigation Tools</a></li>
@@ -162,7 +160,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#error-handling" id="toc-error-handling" class="nav-link" data-scroll-target="#error-handling">Error Handling</a></li>
   </ul></li>
   <li><a href="#next-steps" id="toc-next-steps" class="nav-link" data-scroll-target="#next-steps">Next Steps</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -188,8 +185,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="using-the-app-in-the-field" class="level1">
-<h1>Using the App in the Field</h1>
 <p>Navigate the interface, capture data, attach photos, and use GPS tracking effectively.</p>
 <section id="app-interface-overview" class="level2">
 <h2 class="anchored" data-anchor-id="app-interface-overview">App Interface Overview</h2>
@@ -330,7 +325,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -405,7 +399,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ac-lima\.github\.io\/fieldmaps\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

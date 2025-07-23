@@ -129,9 +129,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#preparing-a-map-for-field-collection" id="toc-preparing-a-map-for-field-collection" class="nav-link active" data-scroll-target="#preparing-a-map-for-field-collection">Preparing a Map for Field Collection</a>
-  <ul class="collapse">
-  <li><a href="#creating-a-web-map" id="toc-creating-a-web-map" class="nav-link" data-scroll-target="#creating-a-web-map">Creating a Web Map</a>
+  <li><a href="#creating-a-web-map" id="toc-creating-a-web-map" class="nav-link active" data-scroll-target="#creating-a-web-map">Creating a Web Map</a>
   <ul class="collapse">
   <li><a href="#step-1-access-arcgis-online" id="toc-step-1-access-arcgis-online" class="nav-link" data-scroll-target="#step-1-access-arcgis-online">Step 1: Access ArcGIS Online</a></li>
   <li><a href="#step-2-add-base-layers" id="toc-step-2-add-base-layers" class="nav-link" data-scroll-target="#step-2-add-base-layers">Step 2: Add Base Layers</a></li>
@@ -153,7 +151,6 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#best-practices" id="toc-best-practices" class="nav-link" data-scroll-target="#best-practices">Best Practices</a></li>
   <li><a href="#next-steps" id="toc-next-steps" class="nav-link" data-scroll-target="#next-steps">Next Steps</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -179,8 +176,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="preparing-a-map-for-field-collection" class="level1">
-<h1>Preparing a Map for Field Collection</h1>
 <p>Configure web maps in ArcGIS Online, add editable layers, and set up offline areas.</p>
 <section id="creating-a-web-map" class="level2">
 <h2 class="anchored" data-anchor-id="creating-a-web-map">Creating a Web Map</h2>
@@ -285,7 +280,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -360,7 +354,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ac-lima\.github\.io\/fieldmaps\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
