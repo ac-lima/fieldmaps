@@ -25,7 +25,7 @@
     "href": "using-the-app.html#photo-attachments",
     "title": "Using the App in the Field",
     "section": "Photo Attachments",
-    "text": "Photo Attachments\n\nTaking Photos\n\nOpen a feature’s form\nTap the camera icon\nTake or select photos\nAdd captions if needed\n\n\n\nPhoto Best Practices\n\nUse good lighting\nInclude reference objects for scale\nTake multiple angles when needed\nKeep file sizes reasonable"
+    "text": "Photo Attachments\n\nTaking Photos\n\nOpen a feature’s form\nTap the camera icon\nTake or select photos\nAdd captions if needed\n\n\n\nPhoto Requeriments\n\nTake photo of willow leave\nTake photo of willow flowwer/catkin\nTake photo of willow area (to verify density)\n\n\n\nPhoto Best Practices\n\nGood lightining\nDo not upload blurred photos, you can hold the plant if needed\nKeep file sizes reasonable"
   },
   {
     "objectID": "using-the-app.html#gps-and-location",
@@ -137,7 +137,7 @@
     "href": "index.html#best-practices",
     "title": "ArcGIS Field Maps Tutorial - Complete Beginner’s Guide",
     "section": "Best Practices",
-    "text": "Best Practices\n\nTips for Success\n\n\n\nOffline Workflows\nLearn how to work efficiently without internet connectivity\n\n\nBattery Management\nOptimize your device settings for extended field work\n\n\nForm Customization\nDesign intuitive forms for faster data collection"
+    "text": "Best Practices\n\nTips for Success\n\n\n\nOffline Workflows\nLearn how to work efficiently without internet connectivity\n\n\nBattery Management\nOptimize your device settings for extended field work"
   },
   {
     "objectID": "getting-started.html",
@@ -158,21 +158,21 @@
     "href": "getting-started.html#account-setup",
     "title": "Getting Started",
     "section": "Account Setup",
-    "text": "Account Setup\n\nCreating an ArcGIS Account\n\nVisit ArcGIS Online\nClick “Sign Up for a Free Public Account”\nFill in your details and verify your email\nComplete your profile setup\n\n\n\nOrganizational Accounts\nIf you’re part of an organization:\n\nContact your GIS administrator\nRequest access to Field Maps\nObtain your organization’s URL\nUse your organizational credentials to sign in"
+    "text": "Account Setup"
   },
   {
     "objectID": "getting-started.html#first-login",
     "href": "getting-started.html#first-login",
     "title": "Getting Started",
     "section": "First Login",
-    "text": "First Login\n\nOpen the Field Maps app\nEnter your ArcGIS credentials\nAllow location permissions\nComplete the initial setup wizard"
+    "text": "First Login\n\nOpen the Field Maps app\nSign In with ArcGIS Online\nYour ArcGIS organization’s URL: uib.maps.arcgis.com\nSign in with your university account (email + password)"
   },
   {
     "objectID": "getting-started.html#next-steps",
     "href": "getting-started.html#next-steps",
     "title": "Getting Started",
     "section": "Next Steps",
-    "text": "Next Steps\nOnce you’re logged in, you’re ready to:\n\nPrepare your first map\nLearn the app interface\nUnderstand data syncing"
+    "text": "Next Steps\nOnce you’re logged in, you’re ready to:\n\nOn “Maps” search for “willow_mapping_finse_field2”\nThere is a file called “willow_mapping_finse”, however it is from the first fieldwork. DO NOT use it."
   },
   {
     "objectID": "preparing-a-map.html",
@@ -245,45 +245,17 @@
     "text": "Battery Management\n\nDevice Settings\n\nReduce screen brightness\nDisable unnecessary apps\nUse airplane mode in poor signal areas\nEnable power saving modes\n\n\n\nExternal Power\n\nCarry portable battery packs\nUse vehicle charging when available\nConsider solar charging options\nPlan charging schedules\n\n\n\nApp Optimization\n\nClose unused apps\nDisable location services for other apps\nUse offline maps to reduce data usage\nMinimize photo resolution when appropriate"
   },
   {
-    "objectID": "tips-and-best-practices.html#form-customization",
-    "href": "tips-and-best-practices.html#form-customization",
-    "title": "Tips & Best Practices",
-    "section": "Form Customization",
-    "text": "Form Customization\n\nDesign Principles\n\nKeep forms simple and intuitive\nUse clear field labels\nGroup related fields together\nMinimize required fields\n\n\n\nField Types\n\nText: For descriptions and notes\nNumbers: For measurements and counts\nDates: For temporal data\nChoice lists: For standardized values\nPhotos: For visual documentation\n\n\n\nValidation Rules\n\nSet appropriate data ranges\nUse required field validation\nImplement conditional logic\nProvide helpful error messages\n\n\n\nUser Experience\n\nTest forms with field staff\nGather feedback and iterate\nProvide training materials\nDocument form workflows"
-  },
-  {
-    "objectID": "tips-and-best-practices.html#data-quality",
-    "href": "tips-and-best-practices.html#data-quality",
-    "title": "Tips & Best Practices",
-    "section": "Data Quality",
-    "text": "Data Quality\n\nCollection Standards\n\nEstablish clear data collection protocols\nTrain field staff on procedures\nUse standardized terminology\nImplement quality control checks\n\n\n\nAccuracy Considerations\n\nUnderstand GPS limitations\nUse appropriate collection methods\nConsider environmental factors\nValidate critical measurements\n\n\n\nDocumentation\n\nMaintain detailed metadata\nDocument collection methods\nRecord data sources\nKeep version control"
-  },
-  {
-    "objectID": "tips-and-best-practices.html#security-and-privacy",
-    "href": "tips-and-best-practices.html#security-and-privacy",
-    "title": "Tips & Best Practices",
-    "section": "Security and Privacy",
-    "text": "Security and Privacy\n\nData Protection\n\nUse strong passwords\nEnable device encryption\nSecure physical devices\nFollow organizational policies\n\n\n\nAccess Control\n\nLimit data access appropriately\nUse role-based permissions\nMonitor data usage\nRegular security reviews\n\n\n\nCompliance\n\nUnderstand regulatory requirements\nImplement data retention policies\nEnsure privacy protection\nDocument compliance measures"
-  },
-  {
     "objectID": "tips-and-best-practices.html#troubleshooting",
     "href": "tips-and-best-practices.html#troubleshooting",
     "title": "Tips & Best Practices",
     "section": "Troubleshooting",
-    "text": "Troubleshooting\n\nCommon Issues\n\nGPS accuracy problems\n\nWait for better satellite lock\nMove to open areas\nCheck device settings\nConsider external GPS\n\nSync failures\n\nCheck internet connection\nVerify credentials\nClear app cache\nContact support\n\nApp crashes\n\nRestart the app\nUpdate to latest version\nClear device storage\nReport bugs\n\n\n\n\nPerformance Optimization\n\nRegular app updates\nDevice maintenance\nStorage management\nNetwork optimization"
-  },
-  {
-    "objectID": "tips-and-best-practices.html#advanced-techniques",
-    "href": "tips-and-best-practices.html#advanced-techniques",
-    "title": "Tips & Best Practices",
-    "section": "Advanced Techniques",
-    "text": "Advanced Techniques\n\nIntegration with Other Tools\n\nExport data to GIS software\nConnect with databases\nUse APIs for automation\nIntegrate with workflows\n\n\n\nAutomation\n\nSet up automated sync schedules\nUse webhooks for notifications\nImplement data validation scripts\nCreate automated reports\n\n\n\nCustomization\n\nDevelop custom forms\nCreate specialized workflows\nBuild integration tools\nExtend functionality"
+    "text": "Troubleshooting\n\nCommon Issues\n\nGPS accuracy problems\n\nWait for better satellite lock\nMove to open areas\nCheck device settings\nConsider external GPS\n\nSync failures\n\nCheck internet connection\nVerify credentials\nClear app cache\nContact support\n\nApp crashes\n\nRestart the app\nUpdate to latest version\nClear device storage\nReport bugs"
   },
   {
     "objectID": "tips-and-best-practices.html#getting-help",
     "href": "tips-and-best-practices.html#getting-help",
     "title": "Tips & Best Practices",
     "section": "Getting Help",
-    "text": "Getting Help\n\nResources\n\nArcGIS Field Maps Documentation\nEsri Community Forums\nTraining Courses\nTechnical Support\n\n\n\nCommunity\n\nJoin user groups\nAttend conferences\nParticipate in forums\nShare experiences\n\n\n\nContinuous Learning\n\nStay updated with new features\nPractice with sample data\nExperiment with workflows\nSeek feedback from users"
+    "text": "Getting Help\n\nResources\n\nArcGIS Field Maps Documentation\nEsri Community Forums\nTraining Courses\nTechnical Support"
   }
 ]
